@@ -1,0 +1,9 @@
+﻿{
+  "name": "BuildAnywhere",
+  "description": "BepInEx mod for Starsand to build above the maximum build height.",
+  "version_number": "0.0.1",
+  "dependencies": [
+    "BepInEx-BepInExPack_Starsand-5.4.16"
+  ],
+  "website_url": "https://github.com/sp00ktober/BuildAnywhere"
+}
